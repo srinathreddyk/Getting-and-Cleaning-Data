@@ -14,10 +14,13 @@ Activity: the Name of the Activity performed by the subject when measurements we
 
 Measurements
 As mentioned above,the variables remaining are just the calculatd means and standard deviations of these sets of data: (Even if I do not give a detailed description of what each data value means, you can see what it means by comparing it with the original data column.)
-tBodyAccMeanX 
+tBodyAccMeanX
 tBodyAccMeanY 
+
 tBodyAccMeanZ 
+
 tBodyAccStdX 
+
 tBodyAccStdY 
 tBodyAccStdZ 
 tGravityAccMeanX 
